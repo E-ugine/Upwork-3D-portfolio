@@ -23,8 +23,8 @@ import {
   jobit,
   tripguide,
   threejs,
-  
 } from "../assets";
+
 
 export const navLinks = [
   {
@@ -214,7 +214,8 @@ const projects = [
     image: tripguide,
     source_code_link: "https://github.com/",
     live_demo_link: "https://tripguide-demo.com" // Added live demo link
-  }
+  },
+ 
 ];
 
 export { services, technologies, experiences, testimonials, projects };

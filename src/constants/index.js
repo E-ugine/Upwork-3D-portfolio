@@ -208,7 +208,7 @@ const projects = [
     ],
     image: carrent,
     source_code_link: "https://github.com/",
-    live_demo_link: "https://carrent-demo.com" // Added live demo link
+    live_demo_link: "https://wonder-words-blog-app.vercel.app/" // Added live demo link
   },
   {
     name: "Job IT",
